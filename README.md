@@ -2,6 +2,13 @@
 
 Ce projet consiste à explorer et analyser les données des prix des carburants sur une période allant de 2007 à 2023 en utilisant des fichiers XML provenant de différentes années.
 
+## Données : Open Data
+
+Les données relatives aux prix des carburants utilisées dans ce projet sont disponibles en libre accès via l'Open Data gouvernemental. Vous pouvez télécharger ces données directement à partir du site officiel :
+
+- [Données Open Data des Prix des Carburants](https://www.prix-carburants.gouv.fr/rubrique/opendata/)
+
+
 ## Étape 1 : Compréhension de la Structure des Fichiers XML
 
 Pour commencer, nous avons téléchargé le tout premier fichier des données instantanées afin de mieux comprendre la structure du fichier XML.
