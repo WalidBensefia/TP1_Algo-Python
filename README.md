@@ -13,6 +13,7 @@ Les données relatives aux prix des carburants utilisées dans ce projet sont di
 
 Pour commencer, nous avons téléchargé le tout premier fichier des données instantanées afin de mieux comprendre la structure du fichier XML.
 
+Voici une image d'arborescence conçu pour communiquer notre compréhension de la structure 
 ![Arborescence des Fichiers XML](pdv.png)
 
 Nous avons réalisé que le fichier de données instantanées n'était pas approprié pour notre projet, ce qui nous a amenés à télécharger les fichiers d'archives.
